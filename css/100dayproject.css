@@ -16,15 +16,8 @@ header .mainheader{
 	padding: 100px 100px 140px;
 	background-repeat: no-repeat;
 	
-	
 }
 
-
-}
-
-h2,h3{
-	font-family: comic sans ms,'Press start 2P', cursive, sans-serif;
-}
 header h1{
 	font-family: 'Syncopate', cursive, sans-serif;
 	font-size: 45px;
@@ -42,11 +35,31 @@ header p{
 
 }
 
+}
+
+h2{
+	font-family: comic sans ms,'Press start 2P', cursive, sans-serif;
+}
+
+h3{
+	font-family: comic sans ms,'Press start 2P', cursive, sans-serif;
+	font-size: 40px;
+	text-align: center;
+}
+
+
 main{
 	max-width: 860px;
 	padding: 5px 90px 5px;
 	background-image: url(../img/light-veneer.png);
-	background-
+}
+
+.aboutme{
+	text-align: center;
+}
+
+.waidt{
+	text-align: center;
 }
 
 main .day,.date{

@@ -1,6 +1,6 @@
 body{
 	margin: 0;
-	font-family: Palatino Linotype, 'Arial', 'Helvetica', sans-serif;
+	font-family: Josefin Sans ,Palatino Linotype, 'Arial', 'Helvetica', sans-serif;
 	background-color: white;
 	font-size: 20px;
 	line-height: 30px;
@@ -16,6 +16,10 @@ header .mainheader{
 	padding: 100px 100px 140px;
 	background-repeat: no-repeat;
 	
+	
+}
+
+
 }
 
 h2,h3{
@@ -41,15 +45,28 @@ header p{
 main{
 	max-width: 860px;
 	padding: 5px 90px 5px;
+	background-image: url(../img/light-veneer.png);
+	background-
+}
+
+main .day,.date{
+	font-family: comic sans ms,'Press start 2P', cursive, sans-serif;
 }
 
 main img{
 	max-width: 100%;
 }
 
+
 footer{
 	text-align: center;
+	padding: 25px;
+	background-color: #F2F3F4;
+	font-family: comic sans ms;
+	text-transform: uppercase;
+	font-size: 17px;
 }
+
 
 
 

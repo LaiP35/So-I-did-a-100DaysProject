@@ -66,6 +66,7 @@ main .day,.date{
 
 main img{
 	max-width: 100%;
+	border: 5px; 
 }
 
 

@@ -66,7 +66,6 @@ main .day,.date{
 
 main img{
 	max-width: 100%;
-	border: 5px; 
 }
 
 
@@ -79,6 +78,20 @@ footer{
 	font-size: 17px;
 }
 
+.aboutme img{
+	width: 400px;
+    border: 10px solid antiquewhite;
+}
+
+.caption {
+	font-size: 17px;
+	color: grey;
+	margin: 0 17px;
+}
+
+.waidt img{
+	border: 3px solid black;
+}
 
 
 
